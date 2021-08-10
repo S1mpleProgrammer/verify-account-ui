@@ -2,7 +2,7 @@
 **First** Project of "My Front-end Projects"
 ## How to use
 1. Clone the repo:
-      > `git clone https://github.com/S1mpleProgrammer/quiz-app.git`
+      > `git clone https://github.com/S1mpleProgrammer/verify-account-ui.git`
 2. Open it in your favorite text editor.
 3. Grab the specefic element you want and put it on your own website!
       > *also you can modify each element you want to add your own styles*
